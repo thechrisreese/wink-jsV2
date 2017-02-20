@@ -13,37 +13,37 @@
       "/Users/reeseserver/.nvm/versions/node/v6.3.1/lib/node_modules/homebridge-winkv2"
     ]
   ],
-  "_from": "wink-js@>=0.1.0 <1.0.0",
-  "_id": "wink-js@0.1.1",
+  "_from": "wink-jsV2@>=0.1.0 <1.0.0",
+  "_id": "wink-jsV2@0.0.1",
   "_inCache": true,
   "_installable": true,
   "_location": "/homebridge-winkv2/wink-js",
   "_nodeVersion": "5.1.0",
   "_npmUser": {
-    "name": "winfinit",
-    "email": "winfinit@gmail.com"
+    "name": "",
+    "email": ""
   },
   "_npmVersion": "3.3.12",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "wink-js@>=0.1.0 <1.0.0",
+    "raw": "wink-jsV2@>=0.0.1 <1.0.0",
     "scope": null,
-    "escapedName": "wink-js",
-    "name": "wink-js",
-    "rawSpec": ">=0.1.0 <1.0.0",
-    "spec": ">=0.1.0 <1.0.0",
+    "escapedName": "wink-jsV2",
+    "name": "wink-jsV2",
+    "rawSpec": ">=0.0.1 <1.0.0",
+    "spec": ">=0.0.1 <1.0.0",
     "type": "range"
   },
   "_requiredBy": [
     "/homebridge-winkv2"
   ],
-  "_resolved": "https://registry.npmjs.org/wink-js/-/wink-js-0.1.1.tgz",
-  "_shasum": "1d8f0520d0fda730544ae81607fa43ab0ee38b88",
+  "_resolved": "",
+  "_shasum": "",
   "_shrinkwrap": null,
-  "_spec": "wink-js@>=0.1.0 <1.0.0",
+  "_spec": "wink-jsV2@>=0.0.1 <1.0.0",
   "_where": "/Users/reeseserver/.nvm/versions/node/v6.3.1/lib/node_modules/homebridge-winkv2",
   "bugs": {
-    "url": "https://github.com/winfinit/wink-js/issues"
+    "url": ""
   },
   "dependencies": {
     "async": "*",
@@ -64,14 +64,14 @@
   },
   "directories": {},
   "dist": {
-    "shasum": "1d8f0520d0fda730544ae81607fa43ab0ee38b88",
-    "tarball": "https://registry.npmjs.org/wink-js/-/wink-js-0.1.1.tgz"
+    "shasum": "",
+    "tarball": ""
   },
   "engines": {
     "node": ">= 0.10.0"
   },
-  "gitHead": "7fbac86a258680761fded11e6d2de9277000c4fa",
-  "homepage": "https://github.com/winfinit/wink-js#readme",
+  "gitHead": "",
+  "homepage": "",
   "keywords": [
     "wink",
     "home automation",
@@ -81,20 +81,20 @@
   "main": "index.js",
   "maintainers": [
     {
-      "name": "winfinit",
-      "email": "winfinit@gmail.com"
+      "name": "",
+      "email": ""
     }
   ],
-  "name": "wink-js",
+  "name": "wink-jsV2",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/winfinit/wink-js.git"
+    "url": ""
   },
   "scripts": {
     "start": "node index.js",
     "test": "mocha --recursive --no-timeouts test"
   },
-  "version": "0.1.1"
+  "version": "0.0.1"
 }
