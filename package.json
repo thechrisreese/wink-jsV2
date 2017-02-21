@@ -13,8 +13,8 @@
       "/Users/reeseserver/.nvm/versions/node/v6.3.1/lib/node_modules/homebridge-winkv2"
     ]
   ],
-  "_from": "wink-jsv2V2@>=0.0.1 <1.0.0",
-  "_id": "wink-jsv2V2@0.0.1",
+  "_from": "wink-jsv2@>=0.0.1 <1.0.0",
+  "_id": "wink-jsv2@0.0.1",
   "_inCache": true,
   "_installable": true,
   "_location": "/homebridge-winkv2/wink-jsv2",
@@ -50,7 +50,7 @@
     "config-file": "~0.3.0",
     "debug": ""
   },
-  "description": "Wink API wrapper",
+  "description": "Wink API wrapper v2",
   "devDependencies": {
     "chai": "~2.2.0",
     "grunt": "~0.4.5",
