@@ -2,23 +2,23 @@
   "_args": [
     [
       {
-        "raw": "wink-js@>=0.1.0 <1.0.0",
+        "raw": "wink-jsv2@>=0.0.1 <1.0.0",
         "scope": null,
-        "escapedName": "wink-js",
-        "name": "wink-js",
-        "rawSpec": ">=0.1.0 <1.0.0",
-        "spec": ">=0.1.0 <1.0.0",
+        "escapedName": "wink-jsv2",
+        "name": "wink-jsv2",
+        "rawSpec": ">=0.0.1 <1.0.0",
+        "spec": ">=0.0.1 <1.0.0",
         "type": "range"
       },
       "/Users/reeseserver/.nvm/versions/node/v6.3.1/lib/node_modules/homebridge-winkv2"
     ]
   ],
-  "_from": "wink-jsV2@>=0.1.0 <1.0.0",
-  "_id": "wink-jsV2@0.0.1",
+  "_from": "wink-jsv2V2@>=0.0.1 <1.0.0",
+  "_id": "wink-jsv2V2@0.0.1",
   "_inCache": true,
   "_installable": true,
-  "_location": "/homebridge-winkv2/wink-js",
-  "_nodeVersion": "5.1.0",
+  "_location": "/homebridge-winkv2/wink-jsv2",
+  "_nodeVersion": "<=5.1.0",
   "_npmUser": {
     "name": "",
     "email": ""
@@ -26,10 +26,10 @@
   "_npmVersion": "3.3.12",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "wink-jsV2@>=0.0.1 <1.0.0",
+    "raw": "wink-jsv2@>=0.0.1 <1.0.0",
     "scope": null,
-    "escapedName": "wink-jsV2",
-    "name": "wink-jsV2",
+    "escapedName": "wink-jsv2",
+    "name": "wink-jsv2",
     "rawSpec": ">=0.0.1 <1.0.0",
     "spec": ">=0.0.1 <1.0.0",
     "type": "range"
@@ -40,7 +40,7 @@
   "_resolved": "",
   "_shasum": "",
   "_shrinkwrap": null,
-  "_spec": "wink-jsV2@>=0.0.1 <1.0.0",
+  "_spec": "wink-jsv2@>=0.0.1 <1.0.0",
   "_where": "/Users/reeseserver/.nvm/versions/node/v6.3.1/lib/node_modules/homebridge-winkv2",
   "bugs": {
     "url": ""
@@ -85,7 +85,7 @@
       "email": ""
     }
   ],
-  "name": "wink-jsV2",
+  "name": "wink-jsv2",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
